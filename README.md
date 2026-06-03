@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @TriangleSteve
-- 👀 I’m interested in automation, business intelligence, databases, and servers
-- 🌱 I’m currently learning python, postgresql, tableau, ASP.NET, and anything else that will help create data solutions
-- 💞️ I’m looking to collaborate on [shrug]... I don't know that anyone will be collaborating with me on these, I'm going it alone
-- 📫 How to reach me: point the bat-signal to the sky... I will find you
+I’m @TriangleSteve
+- I’m a data engineer with interests in automation, business intelligence, databases, and servers
 
 <!---
 TriangleSteve/TriangleSteve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
